@@ -7,7 +7,8 @@ Right now I am building projects focused on:
   Expected Value and Risk Analysis  
   Data Analysis (Excel, SQL)
 
-Current Project:
+Current Project: Monte Carlo Betting Simulation  
+A simulation model that demonstrates how different bet sizes impact long terms outcomes in a fixed probabilistic system. The project focuses on expected value, variance, and how position sizing affects risk and financial stability over time. 
 
 What I'm working on:  
 Improving Data Analysis skills (Excel, SQL)  
