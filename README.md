@@ -11,7 +11,7 @@ Current Project:
 
 What I'm working on:  
 Improving Data Analysis skills (Excel, SQL)  
-Building practical models to gain real data-driven insights and analytical thinking  
+Building practical models to gain real data-driven insights 
 Becoming more comfortable with simulation and modeling techniques
   
 
