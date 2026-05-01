@@ -11,7 +11,7 @@ Current Project: Monte Carlo Betting Simulation
 A simulation model that demonstrates how different bet sizes impact-long terms outcomes in a fixed probabilistic system. The project focuses on expected value, variance, and how position sizing affects risk and financial stability over time. 
 
 What I'm working on:  
-Improving Data Analysis skills (Excel, SQL)  
+Improving Data Analysis skills (Excel, SQL, Python)  
 Building practical models to improve my data-driven intuiton  
 Getting more comfortable with simulation and statistical modeling techniques
   
