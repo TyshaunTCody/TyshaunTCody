@@ -12,7 +12,7 @@ A simulation model that demonstrates how different bet sizes impact long terms o
 
 What I'm working on:  
 Improving Data Analysis skills (Excel, SQL)  
-Building practical models to improve my data driven intuiton
+Building practical models to improve my data driven intuiton  
 Getting more comfortable with simulation and modeling techniques
   
 
